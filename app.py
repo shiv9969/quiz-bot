@@ -39,8 +39,8 @@ API_URL = os.getenv('API_URL')
 
 
 ADMIN_ID = #Replace_id
-AUTHORIZED_USERS = []
-AUTHORIZED_GROUPS = [] 
+AUTHORIZED_USERS = [5359352640]
+AUTHORIZED_GROUPS = [-1002218221874] 
 
 
 # Initialize the bot with the token from environment variable
@@ -59,8 +59,8 @@ WELCOME_MSG = """<b>
 ╚══════════════════
 </b>
 """
-IMAGE_URL = "#replace image url"
-ANIMATION_STICKER_ID = "#replace_sticker_id"
+IMAGE_URL = "https://files.catbox.moe/ochosq.jpg"
+ANIMATION_STICKER_ID = "CAACAgUAAxkBAAIIb2e4rKR8HHFcVe3RLbpRwJfG5PiTAAK5AgACW2CBVQhLrIzG5jChNgQ"
 
 
 # Inline keyboard buttons
